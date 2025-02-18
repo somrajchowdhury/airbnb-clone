@@ -1,4 +1,3 @@
-from django.core.exceptions import ValidationError
 from django.db import models
 from core.models import AbstractDateTime
 from rooms.models import Room
